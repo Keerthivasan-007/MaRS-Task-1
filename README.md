@@ -621,39 +621,6 @@ Valid configurations for Target T:
 - Multiple example scenarios
 
 
-##  Development Process
-
-### Iteration Cycle
-1. **Problem Understanding**
-   - Read and analyze requirements
-   - Identify constraints
-   - Define inputs/outputs
-
-2. **Solution Design**
-   - Choose algorithm approach
-   - Sketch data structures
-   - Plan implementation
-
-3. **Implementation**
-   - Write core functionality
-   - Add helper functions
-   - Implement error handling
-
-4. **Testing**
-   - Unit test components
-   - Test with examples
-   - Edge case validation
-
-5. **Optimization**
-   - Refactor for clarity
-   - Optimize performance
-   - Improve user experience
-
-6. **Documentation**
-   - Add code comments
-   - Create usage guide
-   - Document approach
-
 ##  Conclusion
 
 Through solving these challenges, I've gained deeper understanding of:
@@ -663,3 +630,9 @@ Through solving these challenges, I've gained deeper understanding of:
 - Pathfinding in complex environments
 - The importance of algorithm selection
 
+  Miscs:
+  1) Screen shot of pushing into github
+  
+  <img width="974" height="258" alt="image" src="https://github.com/user-attachments/assets/fa85e443-0210-4acc-954c-33a4888055ee" />
+
+  2) 
