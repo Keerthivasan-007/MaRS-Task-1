@@ -6,6 +6,7 @@
 3. Equations & Theorems
 4. Challenges Faced
 5. Approaches Explained
+6. Resources used
 
 ---
 
@@ -563,7 +564,6 @@ Valid configurations for Target T:
 - **Rotation Matrices:**
   - 3Blue1Brown - Essence of Linear Algebra (YouTube)
   - Wikipedia: Rotation Matrix
-  - Robotics Textbooks: Craig - Introduction to Robotics
 
 - **Homogeneous Coordinates:**
   - Computer Graphics fundamentals
@@ -585,7 +585,6 @@ Valid configurations for Target T:
 - **Graph Algorithms:**
   - CLRS: Introduction to Algorithms
   - Wikipedia: Breadth-first search
-  - Neetcode.io - Algorithms course
 
 #### 4. Robotics & Transformations
 - **Mars Rover Context:**
@@ -630,9 +629,40 @@ Through solving these challenges, I've gained deeper understanding of:
 - Pathfinding in complex environments
 - The importance of algorithm selection
 
-  Miscs:
-  1) Screen shot of pushing into github
+  Screenshots:
+  1) Pushing into github
   
   <img width="974" height="258" alt="image" src="https://github.com/user-attachments/assets/fa85e443-0210-4acc-954c-33a4888055ee" />
 
-  2) 
+  2) Light dose  rover_system_check.sh
+
+     <img width="841" height="858" alt="image" src="https://github.com/user-attachments/assets/8ec060f6-3ce9-4ccd-a1b8-e124ac7f7cc5" />
+     
+  3) Medium Dose 1:
+     
+     <img width="993" height="189" alt="image" src="https://github.com/user-attachments/assets/946edffc-1f90-4c0c-a576-a3afe62f84ef" />
+
+  4) Medium Dose 2:
+     
+      <img width="1003" height="229" alt="image" src="https://github.com/user-attachments/assets/9651d84f-d095-4b6f-848c-67b32b4755c4" />
+
+  5) Medium Dose 3:
+     
+      <img width="976" height="195" alt="image" src="https://github.com/user-attachments/assets/dd02bb4a-9e80-4a86-9501-b7b9835566dc" />
+
+  6) Medium Dose 4:
+
+     <img width="992" height="295" alt="image" src="https://github.com/user-attachments/assets/142c792b-9466-4d59-b4de-a35b3d53dfc5" />    
+
+  7) Medium Dose 5:
+  
+      <img width="976" height="291" alt="image" src="https://github.com/user-attachments/assets/f3231813-12b6-48da-b8f6-5039d422b21c" />
+      
+  8) Hard Dose 1:
+
+       <img width="973" height="675" alt="image" src="https://github.com/user-attachments/assets/354d4716-1b52-45be-80e1-31a2bd9521be" />
+
+
+      
+     
+  
