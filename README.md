@@ -323,22 +323,8 @@ Valid configurations for Target T:
 
 **Learning:** Matrix operations are composable - order matters!
 
----
 
-### Challenge 2: Morse Code Dictionary Completeness (Problem 2)
-**Issue:** Missing some Morse code symbols
-
-**Solution:**
-- Built comprehensive dictionary
-- Added letters, numbers, and punctuation
-- Tested with multiple examples
-- Added error handling for unknown symbols
-
-**Learning:** Complete reference data is crucial for mapping problems
-
----
-
-### Challenge 3: Wrapping in Position-based Cipher (Problem 3)
+### Challenge 2: Wrapping in Position-based Cipher (Problem 3)
 **Issue:** Characters wrapping around alphabet boundaries
 
 **Solution:**
@@ -351,7 +337,7 @@ Valid configurations for Target T:
 
 ---
 
-### Challenge 4: Choosing Between Filters (Problem 4)
+### Challenge 3: Choosing Between Filters (Problem 4)
 **Issue:** When to use mean vs. median
 
 **Solution:**
@@ -364,7 +350,7 @@ Valid configurations for Target T:
 
 ---
 
-### Challenge 5: Dynamic Programming State Space (Problem 5)
+### Challenge 4: Dynamic Programming State Space (Problem 5)
 **Issue:** Exponential complexity without proper optimization
 
 **Solution:**
@@ -377,7 +363,7 @@ Valid configurations for Target T:
 
 ---
 
-### Challenge 6: BFS vs. Other Pathfinding (Problem 6)
+### Challenge 5: BFS vs. Other Pathfinding (Problem 6)
 **Issue:** Ensuring shortest path without extra complexity
 
 **Solution:**
