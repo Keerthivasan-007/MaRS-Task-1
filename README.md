@@ -1,16 +1,15 @@
 # Mars Rover Programming Challenges - Complete Documentation
 
-## 📚 Table of Contents
+##  Table of Contents
 1. Learning Experience
 2. Problem Summaries & Solutions
 3. Equations & Theorems
 4. Challenges Faced
 5. Approaches Explained
-6. Resources Used
 
 ---
 
-## 🎓 Learning Experience
+##  Learning Experience
 
 ### Overview
 This project involved solving 5 diverse Mars rover-related programming challenges, ranging from robotics coordinate transformations to pathfinding algorithms. Each challenge required different programming paradigms and mathematical concepts.
@@ -23,8 +22,6 @@ This project involved solving 5 diverse Mars rover-related programming challenge
 - Grasped Euler angles and rotation matrix composition
 - Applied matrix multiplication for chaining transformations
 
-**Difficulty:** Medium-High  
-**Time Investment:** Understanding 3D geometry took significant effort
 
 #### 2. **Signal Processing & Morse Code (Problems 2 & 3)**
 - Gained experience in pattern recognition and decoding
@@ -32,8 +29,7 @@ This project involved solving 5 diverse Mars rover-related programming challenge
 - Understood string manipulation and dictionary-based lookups
 - Practiced with position-dependent transformations
 
-**Difficulty:** Low-Medium  
-**Time Investment:** Quick implementation, moderate testing
+
 
 #### 3. **Noise Filtering & Signal Analysis (Problem 4)**
 - Learned statistical filtering techniques (mean vs. median)
@@ -41,8 +37,7 @@ This project involved solving 5 diverse Mars rover-related programming challenge
 - Grasped robustness concepts (outlier resistance)
 - Applied dynamic programming concepts
 
-**Difficulty:** Medium  
-**Time Investment:** Concept understanding + algorithm implementation
+
 
 #### 4. **Optimization & Dynamic Programming (Problem 5)**
 - Developed understanding of constrained optimization
@@ -50,8 +45,6 @@ This project involved solving 5 diverse Mars rover-related programming challenge
 - Practiced cost minimization with multiple constraints
 - Understood state-space exploration
 
-**Difficulty:** Hard  
-**Time Investment:** Significant algorithm design and validation
 
 #### 5. **Pathfinding & Graph Algorithms (Problem 6)**
 - Mastered BFS (Breadth-First Search) algorithm
@@ -59,12 +52,10 @@ This project involved solving 5 diverse Mars rover-related programming challenge
 - Understood obstacle avoidance in 2D space
 - Practiced queue-based state exploration
 
-**Difficulty:** Medium  
-**Time Investment:** Algorithm implementation + visualization
 
 ---
 
-## 📐 Equations, Theorems & Mathematical Foundations
+##  Equations, Theorems & Mathematical Foundations
 
 ### 1. Rotation Matrices (Problem 1)
 
@@ -244,7 +235,7 @@ In grid: O(n × m) for n×m grid
 
 ---
 
-## 📊 Sketches & Visual Representations
+##  Sketches & Visual Representations
 
 ### 1. Coordinate Frame Transformation Chain
 ```
@@ -319,7 +310,7 @@ Valid configurations for Target T:
 
 ---
 
-## 🚧 Challenges Faced
+##  Challenges Faced
 
 ### Challenge 1: Understanding 3D Transformations (Problem 1)
 **Issue:** Conceptualizing rotation matrices and their composition
@@ -399,7 +390,7 @@ Valid configurations for Target T:
 
 ---
 
-## 🎯 Approach Explanations
+##  Approach Explanations
 
 ### Problem 1: Rover Coordinate Transformation
 **Approach:** Homogeneous Coordinate Transformation
@@ -578,7 +569,7 @@ Valid configurations for Target T:
 
 ---
 
-## 📚 Resources Used
+##  Resources Used
 
 ### Learning Materials
 
@@ -643,20 +634,6 @@ Valid configurations for Target T:
 - Step-by-step debugging
 - Multiple example scenarios
 
----
-
-### Online Resources
-
-| Topic | Resource | Link |
-|-------|----------|------|
-| Linear Algebra | 3Blue1Brown | youtube.com/@3blue1brown |
-| Algorithms | LeetCode | leetcode.com |
-| Data Structures | GeeksforGeeks | geeksforgeeks.org |
-| Python | Real Python | realpython.com |
-| Robotics | ROS Wiki | wiki.ros.org |
-| Pathfinding | Neetcode | neetcode.io |
-
----
 
 ##  Development Process
 
@@ -690,61 +667,6 @@ Valid configurations for Target T:
    - Add code comments
    - Create usage guide
    - Document approach
-
----
-
-##📈 Growth & Improvements
-
-### Skills Developed
- 3D coordinate transformations  
- Matrix mathematics  
- Cipher decryption techniques  
- Signal processing & filtering  
- Dynamic programming optimization  
- Graph algorithms (BFS)  
- File I/O and data parsing  
- Test case design  
- Algorithm complexity analysis  
- Documentation & communication  
-
-### Areas for Future Enhancement
-- Implement A* for weighted pathfinding
-- Add GUI visualization for transformations
-- Optimize DP with better state representation
-- Extend Morse code to support full character set
-- Implement Dijkstra's algorithm variant
-- Add performance benchmarking
-- Create interactive demos
-
----
-
-## 🎓 Key Takeaways
-
-1. **Mathematical Foundation Matters**
-   - Understanding underlying math makes algorithms clearer
-   - Matrix operations are powerful for transformations
-   - Statistical concepts guide algorithm choice
-
-2. **Algorithm Selection is Critical**
-   - Different problems need different approaches
-   - Complexity analysis guides optimization
-   - Constraints determine solution feasibility
-
-3. **Testing and Validation are Essential**
-   - Multiple test cases catch edge cases
-   - Visual verification builds confidence
-   - Step-by-step execution helps debugging
-
-4. **Clear Communication Aids Learning**
-   - Good documentation helps future understanding
-   - Examples clarify abstract concepts
-   - Visual representations aid comprehension
-
-5. **Iterative Refinement Works**
-   - Start simple, then optimize
-   - Test incrementally
-   - Refactor for clarity
-
 
 ##  Conclusion
 
